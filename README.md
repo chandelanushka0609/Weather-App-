@@ -50,7 +50,7 @@ This project is ideal for **beginners** who want to learn:
 ## 👨‍💻 Developers
 
 - Anushka Chandel  
-- Ayush Singh  
+- Ayush Kumar Singh  
 - Ashwant Kumar Yadav  
 
 
