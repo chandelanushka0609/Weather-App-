@@ -30,3 +30,5 @@ The app fetches real-time weather data using the OpenWeatherMap API.
    and API integration.
 
    
+
+   
