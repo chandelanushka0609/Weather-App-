@@ -29,5 +29,4 @@ The app fetches real-time weather data using the OpenWeatherMap API.
    This project is suitable for beginners learning Python GUI development
    and API integration.
 
-5. Author
-   Created by Solite Ind
+   
