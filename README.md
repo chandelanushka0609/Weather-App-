@@ -1,34 +1,57 @@
+# 🌦 Weather App (Python + Tkinter)
 
-# Weather App (Python + Tkinter)
+This is a **desktop-based Weather Application** built using **Python and Tkinter**.  
+The application fetches **real-time weather data** from the **OpenWeatherMap API** and displays it in a clean and user-friendly graphical interface.
 
-This is a desktop-based Weather Application built using Python and Tkinter.
-The app fetches real-time weather data using the OpenWeatherMap API.
+The app also provides **basic weather insights**, making it suitable for beginners learning **API integration** and **GUI development in Python**.
 
-1. Features
-   1.1 Real-time weather by city name
-   1.2 Temperature and feels-like temperature
-   1.3 Weather condition display
-   1.4 Simple and clean GUI
-   1.5 API-based data fetching
+---
 
-2. Technologies Used
-   2.1 Python
-   2.2 Tkinter
-   2.3 Requests library
-   2.4 OpenWeatherMap API
+## 📌 Features
 
-3. How to Run
-   3.1 Install Python 3
-   3.2 Install required libraries using:
-       pip install requests pillow
-   3.3 Replace YOUR_API_KEY_HERE in weather_app.py with your OpenWeatherMap API key
-   3.4 Run the file:
-       python weather_app.py
+1. Real-time weather information by city name  
+2. Displays temperature and feels-like temperature  
+3. Shows current weather condition  
+4. Simple, clean, and interactive GUI  
+5. API-based real-time data fetching  
 
-4. Project Use Case
-   This project is suitable for beginners learning Python GUI development
-   and API integration.
+---
 
-   
+## 🛠 Technologies Used
+
+1. Python  
+2. Tkinter (GUI Framework)  
+3. Requests Library  
+4. OpenWeatherMap API  
+
+---
+
+## ▶️ How to Run the Project
+
+1. Install **Python 3** on your system  
+2. Install the required libraries by running:  
+3. Open `weather_app.py` and replace:  
+with your **OpenWeatherMap API key**
+4. Run the application using:
+
+
+---
+
+## 🎯 Project Use Case
+
+This project is ideal for **beginners** who want to learn:
+- Python GUI development  
+- Working with APIs  
+- Handling user input  
+- Displaying real-time data in desktop applications  
+
+---
+
+## 👨‍💻 Developers
+
+- Anushka Chandel  
+- Ayush Singh  
+- Ashwant Kumar Yadav  
+
 
    
