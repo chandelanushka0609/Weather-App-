@@ -28,4 +28,5 @@ The app fetches real-time weather data using the OpenWeatherMap API.
    This project is suitable for beginners learning Python GUI development
    and API integration.
 
-5. Developers - Anushka Chandel, Ayush Singh , Ashwant Kumar Yadav 
+5. Developers
+   Anushka Chandel, Ayush Singh , Ashwant Kumar Yadav 
